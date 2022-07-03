@@ -1,5 +1,5 @@
 # PerunsFart-PPID
-Userland API hooking bypass with PerunsFart spoofed PPID
+Userland API hooking bypass with modified PerunsFart
 1. CreateProcess with PPID spoofing in suspended state
 2. Replace current hooked syscall table with unhooked syscall table in the created process
 
